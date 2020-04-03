@@ -1,2 +1,1 @@
-# EthanZhang.me
-自述。
+## 自述。
