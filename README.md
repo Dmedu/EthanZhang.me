@@ -31,5 +31,5 @@ web
 
 如果您想联系我：<br/>
 WeChat : 610558983 <br/>
-Email : iszhangxz@foxmail.com
+Email : iszhangxz@foxmail.com <br/>
 GitHub : [我的GitHub](https://github.com/Dmedu)
