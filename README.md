@@ -2,7 +2,7 @@
 
 ### 我叫张祥争。
 
-我是一名独立开发人员，在网页和移动开发方面有很强的专业性，有3年以上的开发经验，已经交付了很多客户非常满意的项目。我热爱开源，热爱前端，写过多个Library以及NodeJs脚本，帮助开发者完成更多有意义的事。
+我是一名独立开发人员，在网页和移动开发方面有很强的专业性，有接近3年的开发经验，已经交付了很多客户非常满意的项目。我热爱开源，热爱前端，写过多个Library以及NodeJs脚本，帮助开发者完成更多有意义的事。
 
 我一直努力为客户提供优质的服务，满足客户的要求。
 
@@ -13,7 +13,7 @@
 web
 
 - HTML, CSS, Bootstrap, Javascript 和 Typescript
-- React/Redux/React-Route、Vue/Vuex/Vuex/Vue-Router和Node。
+- React/Redux/React-Route、Vue/Vuex/Vue-Router和Node。
 - 多种JavaScript库、Antd UI、Elements UI、Chart.js等。
 
 移动端
